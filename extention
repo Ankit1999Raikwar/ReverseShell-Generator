@@ -1,0 +1,25 @@
+bash-i ,bash-udp (udp port),bash5 ,bash-196,bash-2,bash-r (readline) ,zsh (linux zsh terminal)
+nc-er ,nc-c ,ncat-e ,ncat-udp ,nc-mknod ,nc-mkfifo ,nc-pipe,nc.exe-w (Windows)
+socat-1 ,socat-tty
+telnet-mkfifo ,telnet
+perl ,perl-sh ,perl-W (Windows)
+php,php-cmd (web cmd execution) ,php-system ,php-passthru ,php-exec ,php-shell_exec ,php-proc ,php-poopen ,php-`
+python-1 ,python-2 ,python3-1 ,python3-2 ,python-s(forshort)
+ruby ,ruby-sh ,ruby-W (Windows),c-lang
+(Windows): powershell-cmd2  ,powershell-cmd2 ,powershell-cmd3 ,powershell-cmd4 ,powershell-tls ,Windows-pty
+java1 ,java2 ,java3
+Lua-1 ,Lua-2
+rcat,awk,node,golang,dart,,Groovy,tcl-sh,haskell ,xterm
+
+,
+
+metasploit -m
+asp ,,aspx jsp ,lin-bin(elf) ,lin-bin-s ,osx-bin ,war
+win-bin(exe),win-bin(exe)-s,shellcode
+php-s,php
+android,python,bash
+some special revshell
+pentest-monkey
+php-lvan-sincek
+
+bash,zsh,nc,ncat,rcat,php,python,ruby,socat,telnet,perl,lua,golang,awk,node,java,powershell
